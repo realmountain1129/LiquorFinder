@@ -2,7 +2,7 @@
 
 You can find various liquors by taking pictures.
 
-Here's the list of liquors:
+Here's the list of liquors you can find:
 * Gordon's Gin
 * Absolute Vodka
 * Bombay Sapphire
