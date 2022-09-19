@@ -18,6 +18,7 @@ Here's the list of liquors you can find:
 
 * Python3
 * Tensorflow
+* coremltools
 * Swift
 * CoreML
 * Vision
